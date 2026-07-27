@@ -4,3 +4,5 @@ import os
 
 print(os.listdir())
 print(os.getcwd())
+
+print("oo lala oo laala tu gori me kala tu hai meri fantasy")
